@@ -13,7 +13,7 @@ struct ZZAlertUtils {
     public static let NaviHeight:CGFloat = (StatusHeight + 44)
     public static let TabbarHeight:CGFloat  = (StatusHeight > 20 ? 83 : 49)
     public static let topOffset:CGFloat = StatusHeight
-    public static let bottomOffset:CGFloat = isIphoneXSeries() ? 26 : 16
+    public static let bottomOffset:CGFloat = isIphoneXSeries() ? 16 : 0
     
     public static var StatusHeight: CGFloat {
         if #available(iOS 13.0, *) {
