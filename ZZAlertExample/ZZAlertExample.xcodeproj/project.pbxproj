@@ -34,6 +34,7 @@
 		053A7C5127C360A000E45EBB /* ZZAlertViewProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZZAlertViewProtocol.swift; sourceTree = "<group>"; };
 		053A7C5727C363C100E45EBB /* SampleAlertView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleAlertView.swift; sourceTree = "<group>"; };
 		053A7C5927C3805D00E45EBB /* ZZAlert.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = ZZAlert.podspec; path = ../../ZZAlert.podspec; sourceTree = "<group>"; };
+		05EE063E295F0B5E00A98CA8 /* meta.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = meta.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +96,7 @@
 			isa = PBXGroup;
 			children = (
 				053A7C5627C3619500E45EBB /* Sample */,
+				05EE063E295F0B5E00A98CA8 /* meta.md */,
 			);
 			path = Example;
 			sourceTree = "<group>";
